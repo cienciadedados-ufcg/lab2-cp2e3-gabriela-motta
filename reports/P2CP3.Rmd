@@ -1,6 +1,14 @@
 ---
 title: "Prob2CP3: Uma análise sua"
-output: html_notebook
+output:
+  html_document:
+    code_folding: hide
+    df_print: paged
+    toc: yes
+    toc_float: yes
+  html_notebook:
+    toc: yes
+    toc_float: yes
 ---
 
 ```{r}
@@ -10,7 +18,14 @@ library(spotifyr)
 theme_set(theme_bw())
 ```
 
-## Considerando algumas das boybands mais famosas ao longo dos anos, elas apresentam um mesmo molde? Ou seja, a mesma média de tempo / energia / etc?
+# Considerando algumas das boybands mais famosas ao longo dos anos, elas apresentam um mesmo molde? Ou seja, a mesma média de tempo / energia / etc?
+
+Boybands são bandas formadas geralmente por meninos adolescentes, e tem como objetivo conquistar o público de meninas adolescentes. O estilo musical é bem característico, com músicas animadas e dançantes, e algumas baladas. Iremos analisar as principais músicas de várias boybands presentes no Spotify, entre elas as clássicas NSYNC e Backstreet Boys, além do fenômeno kpop BTS. Queremos saber se há um padrão nas características de Tempo, Dançabilidade, Valência e Energia.
+Tempo é a velocidade ou ritmo de uma música e é medido em batidas por minuto (BPM);
+Dançabilidade descreve como uma música é adequada para a dança baseada em uma combinação de elementos musicais (quanto mais próximo de 1, mais dançante);
+Valência mede a positividade da faixa (alta Valência significa mais positiva (por exemplo, felizes, alegres, eufóricas), enquanto baixa valência significa mais negativa (por exemplo, triste, deprimido, zangado);
+Energia é uma medida de 0 a 1 e representa uma medida de intensidade e atividade.
+A playlist base pode ser encontrada em: https://open.spotify.com/user/gabimotta15/playlist/47WfTEyFNe64N1OxeQ7xbo?si=g93Ia7niTlKYnjJlrn7dQA
 
 ```{r}
 boybands = read_csv(here("data/playlist-boybands.csv"))
@@ -18,17 +33,31 @@ boybands = read_csv(here("data/playlist-boybands.csv"))
 ```{r}
 sumarios = boybands %>% 
     group_by(artist) %>%
-    summarise(media_tempo = mean(tempo), media_energia = mean(energy))
+    summarise(media_tempo = mean(tempo), media_energia = mean(energy), media_danca = mean(danceability), media_valencia = mean(valence))
 ```
+
+```{r}
+
+b = sumarios %>% 
+    ggplot(aes(y = artist)) + 
+    geom_point(aes(x = media_energia, color = "Energia")) + 
+    geom_point(aes(x = media_danca, color = "Dançabilidade")) +
+    geom_point(aes(x = media_valencia, color = "Valência")) +
+    labs(x = "Médias dos Atributos", y = "Artista" , color = "Atributo")
+
+plotly::ggplotly(b)
+```
+
+A maioria das boybands apresenta média de Energia acima de 0.7, e a média de Dançabilidade entre 0.5 e 0.7. Apenas a Valência se destaca, tendo bandas muito positivas como Menudo (quase 0.8 de Valência), e bandas muito negativas como The Wanted (abaixo de 0.4).
 
 ```{r}
 p = boybands %>% 
     mutate(faixa = paste(track_name, album_name)) %>% 
-    ggplot(aes(x = energy,
+    ggplot(aes(x = tempo,
                color = artist,
                label = faixa,
-               y = tempo)) + 
-    geom_point(size = .8, alpha = .8) 
+               y = danceability)) + 
+    geom_point(size = .8, alpha = .8)
 
 plotly::ggplotly(p)
 ```
@@ -36,18 +65,48 @@ plotly::ggplotly(p)
 
 
 
-## Lady Gaga possui álbuns de vários estilos, o Tempo varia muito para cada álbum?
+# Lady Gaga possui álbuns de vários estilos, o Tempo varia muito para cada álbum?
+
+Lady Gaga é uma artista muito talentosa, ganhou vários prêmios com seus álbuns, que vão do pop ao jazz. Como é o comportamento do Tempo nesses álbuns? Tempo é a velocidade ou ritmo de uma música e é medido em batidas por minuto (BPM). Como os estilos musicais mudam, é esperado que haja uma variação nesse Tempo. Para essa análise serão desconsiderados singles e álbuns promocionais.
+A playlist base pode ser encontrada em: https://open.spotify.com/user/gabimotta15/playlist/7pH3kwz0vVTgmKt2cR7Z9o?si=JcvkobZXSkKBCE13ubsM7w
+
 ```{r}
 gaga = read_csv(here("data/playlist_gaga.csv"))
 ```
 
 ```{r}
-p = gaga %>% 
-    mutate(faixa = paste(track_name, album_name)) %>% 
+mlabels <- c("ARTPOP","Born This Way", "Cheek to Cheek", "Joanne", "The Fame", "The Fame Monster")
+
+g = gaga %>% 
+    mutate(faixa = paste(track_name)) %>% 
     ggplot(aes(x = album_name,
                label = faixa,
                y = tempo)) + 
-    geom_point(size = .8, alpha = .8) 
+    geom_point(size = .8, alpha = .8) +
+    labs(x = "Álbum", y = "Tempo (BPM)", color="Álbum") +
+    scale_x_discrete(labels=mlabels)
 
-plotly::ggplotly(p)
+plotly::ggplotly(g)
 ```
+
+Podemos perceber que os Tempos estão geralmente concentrados entre 100 e 140 BPM, mas existe uma dispersão maior nos álbuns Cheek to Cheek e Joanne, que são os álbuns de estilos mais diferentes dos outros. Portanto o Tempo não varia muito entre os álbuns mais pop, apenas nos álbuns de jazz e country.
+
+## Os álbuns com maior variação de Tempo são acústicos?
+
+Quanto mais próximo de 1 é o nível de acústica, mais provável é que a música seja acústica. Músicas acústicas geralmente são mais lentas, portanto possuem menor Tempo. Na análise anterior os álbuns Joanne e Cheek to Cheek se destacaram por não estar exclusivamente na faixa dos 100 a 140 BPM, e serão observados agora em relação à acústica.
+
+```{r}
+g = gaga %>% 
+    filter(album_name == "Cheek To Cheek (Deluxe)" | album_name == "Joanne (Deluxe)") %>%
+    mutate(faixa = paste(track_name)) %>% 
+    ggplot(aes(x = acousticness,
+               label = faixa,
+               color = album_name,
+               y = tempo)) + 
+    geom_point(size = .8, alpha = .8) +
+    labs(x = "Acústica", y = "Tempo (BPM)", color = "Álbum")
+
+plotly::ggplotly(g)
+```
+
+Vemos que o álbum Cheek to Cheek é quase totalmente acústico, todas as músicas estão acima de 0.5 no nível de acústica, enquanto o Joanne está bem próximo de 0. As faixas Angel Down e Million Reasons são tocadas no piano e no violão, por isso apresentam maior acústica que as outras faixas do Joanne.
