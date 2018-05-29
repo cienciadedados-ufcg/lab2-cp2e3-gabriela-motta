@@ -15,12 +15,13 @@ output:
 library(tidyverse)
 library(here)
 library(spotifyr)
+library(viridis)
 theme_set(theme_bw())
 ```
 
 # Considerando algumas das boybands mais famosas ao longo dos anos, elas apresentam um mesmo molde? Ou seja, a mesma média de tempo / energia / etc?
 
-Boybands são bandas formadas geralmente por meninos adolescentes, e tem como objetivo conquistar o público de meninas adolescentes. O estilo musical é bem característico, com músicas animadas e dançantes, e algumas baladas. Iremos analisar as principais músicas de várias boybands presentes no Spotify, entre elas as clássicas NSYNC e Backstreet Boys, além do fenômeno kpop BTS. Queremos saber se há um padrão nas características de Tempo, Dançabilidade, Valência e Energia.
+Boybands são bandas formadas geralmente por meninos adolescentes, e o estilo musical é bem característico, com músicas animadas e dançantes, e algumas baladas. Iremos analisar as principais músicas de várias boybands presentes no Spotify, entre elas as clássicas NSYNC e Backstreet Boys, além do fenômeno kpop BTS. Queremos saber se há um padrão nas características de Tempo, Dançabilidade, Valência e Energia.
 Tempo é a velocidade ou ritmo de uma música e é medido em batidas por minuto (BPM);
 Dançabilidade descreve como uma música é adequada para a dança baseada em uma combinação de elementos musicais (quanto mais próximo de 1, mais dançante);
 Valência mede a positividade da faixa (alta Valência significa mais positiva (por exemplo, felizes, alegres, eufóricas), enquanto baixa valência significa mais negativa (por exemplo, triste, deprimido, zangado);
@@ -48,22 +49,46 @@ b = sumarios %>%
 plotly::ggplotly(b)
 ```
 
-A maioria das boybands apresenta média de Energia acima de 0.7, e a média de Dançabilidade entre 0.5 e 0.7. Apenas a Valência se destaca, tendo bandas muito positivas como Menudo (quase 0.8 de Valência), e bandas muito negativas como The Wanted (abaixo de 0.4).
+A maioria das boybands apresenta um padrão de média de Energia acima de 0.7, e média de Dançabilidade entre 0.5 e 0.7. Apenas a Valência se destaca, tendo bandas muito positivas como Menudo (quase 0.8 de Valência), e bandas muito negativas como The Wanted (abaixo de 0.4).
 
-```{r}
+```{r fig.width=9}
 p = boybands %>% 
     mutate(faixa = paste(track_name, album_name)) %>% 
-    ggplot(aes(x = tempo,
+    ggplot(aes(x = artist,
                color = artist,
                label = faixa,
-               y = danceability)) + 
-    geom_point(size = .8, alpha = .8)
+               y = tempo)) + 
+    geom_point() +
+    geom_line() +
+    scale_x_discrete(labels = abbreviate) +
+    labs(x = "Artista", y = "Tempo (BPM)" , color = "Artista")
 
 plotly::ggplotly(p)
 ```
+Em relação ao Tempo, é possível observar uma grande variação entre as bandas, portanto não há um padrão específico. Existem bandas com um espaçamento de Tempo bem pequeno como a coreana SHINee, e outras bem espalhadas ao longo da escala como McFly.
 
+## Como é a concentração de Energia e Valência das boybands de KPop e música Latina?
+As músicas coreanas e latinas possuem ritmos fortes, portanto vamos observar o comportamento das bandas BTS, CNCO, Menudo e SHINee.
 
-
+```{r}
+p = boybands %>% 
+    filter(artist == "BTS" | artist == "CNCO" | artist == "Menudo" | artist == "SHINee") %>%
+    mutate(faixa = paste(track_name, album_name)) %>% 
+    ggplot(aes(x = energy, 
+               group = artist,
+               label = track_name,
+               y = valence)) + 
+    stat_density2d(aes(fill=..level..), geom="polygon", n = 100, h = .25) +
+    scale_fill_viridis() +  
+    facet_wrap(~artist) + 
+    scale_x_continuous(limits = c(-.05, 1.05)) + 
+    scale_y_continuous(limits = c(-.05, 1.05)) + 
+    theme(legend.position = "None") + 
+    labs(x = "Energia", 
+         y = "Valência")
+plotly::ggplotly(p)
+```
+As músicas dessas bandas estão mais concentradas em altos níveis de Energia e Valência, logo são animadas e positivas.
 
 # Lady Gaga possui álbuns de vários estilos, o Tempo varia muito para cada álbum?
 
