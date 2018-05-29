@@ -1,0 +1,53 @@
+---
+title: "Prob2CP3: Uma análise sua"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(here)
+library(spotifyr)
+theme_set(theme_bw())
+```
+
+## Considerando algumas das boybands mais famosas ao longo dos anos, elas apresentam um mesmo molde? Ou seja, a mesma média de tempo / energia / etc?
+
+```{r}
+boybands = read_csv(here("data/playlist-boybands.csv"))
+```
+```{r}
+sumarios = boybands %>% 
+    group_by(artist) %>%
+    summarise(media_tempo = mean(tempo), media_energia = mean(energy))
+```
+
+```{r}
+p = boybands %>% 
+    mutate(faixa = paste(track_name, album_name)) %>% 
+    ggplot(aes(x = energy,
+               color = artist,
+               label = faixa,
+               y = tempo)) + 
+    geom_point(size = .8, alpha = .8) 
+
+plotly::ggplotly(p)
+```
+
+
+
+
+## Lady Gaga possui álbuns de vários estilos, o Tempo varia muito para cada álbum?
+```{r}
+gaga = read_csv(here("data/playlist_gaga.csv"))
+```
+
+```{r}
+p = gaga %>% 
+    mutate(faixa = paste(track_name, album_name)) %>% 
+    ggplot(aes(x = album_name,
+               label = faixa,
+               y = tempo)) + 
+    geom_point(size = .8, alpha = .8) 
+
+plotly::ggplotly(p)
+```

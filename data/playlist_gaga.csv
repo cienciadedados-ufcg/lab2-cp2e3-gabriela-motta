@@ -1,0 +1,107 @@
+danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature,key_mode,track_name,album_name,artist
+0.822,0.739,C#,-4.541,minor,0.0311,0.0264,4.26e-5,0.181,0.745,118.992,1dzQoRqT5ucxXVaAhTcT0J,241933,4,C# minor,Just Dance,The Fame (Revised International Version),Lady Gaga
+0.894,0.678,F#,-5.611,minor,0.0523,0.00569,2.43e-6,0.317,0.844,105.024,0eH2eHURaXUP15D8gQlfjx,216333,4,F# minor,LoveGame,The Fame (Revised International Version),Lady Gaga
+0.762,0.692,F,-3.973,minor,0.0438,0.113,0,0.094,0.397,114.906,02XnQdf7sipaKBBHixz3Zp,208307,4,F minor,Paparazzi,The Fame (Revised International Version),Lady Gaga
+0.851,0.806,E,-4.62,major,0.0787,0.118,1.64e-6,0.121,0.787,118.999,1QV6tiMFM6fSOKOGLMHYYg,237200,4,E major,Poker Face,The Fame (Revised International Version),Lady Gaga
+0.68,0.876,C#,-3.646,minor,0.0577,0.246,1.87e-4,0.0788,0.816,187.785,3WUbVS0J4Ulf0XZR6LNRnh,175360,4,C# minor,"Eh, Eh (Nothing Else I Can Say)",The Fame (Revised International Version),Lady Gaga
+0.782,0.906,D,-5.229,major,0.152,0.017,0.0503,0.293,0.697,120.064,0Bjr5EAEa5YxfSHHWzZmds,172413,4,D major,"Beautiful, Dirty, Rich",The Fame (Revised International Version),Lady Gaga
+0.816,0.694,F,-3.325,major,0.0504,0.0296,1.48e-5,0.035,0.966,127.021,3HhAZV8ngUOOt4eUHovhud,222107,4,F major,The Fame,The Fame (Revised International Version),Lady Gaga
+0.775,0.756,C#,-3.231,major,0.0476,0.0132,3.02e-4,0.0775,0.831,119.004,6gknJVkbQb8jkAXbXx0SYA,170293,4,C# major,Money Honey,The Fame (Revised International Version),Lady Gaga
+0.876,0.631,G#,-5.939,minor,0.143,0.0208,0,0.062,0.509,102.992,7qPvYVyM7ZU7PHz5LTvRY6,217120,4,G# minor,Starstruck,The Fame (Revised International Version),Lady Gaga
+0.725,0.662,A,-5.068,major,0.0404,0.0144,0,0.0996,0.814,122.989,33CB8obztQNidFDbO6Z1Wl,200813,4,A major,Boys Boys Boys,The Fame (Revised International Version),Lady Gaga
+0.752,0.84,C#,-5.047,major,0.0786,0.0502,1.07e-6,0.227,0.574,98.969,2iY7jqy8zBlbk5RliSfTH1,263360,4,C# major,Paper Gangsta,The Fame (Revised International Version),Lady Gaga
+0.747,0.508,A#,-4.764,major,0.0314,0.126,6.75e-6,0.0842,0.595,125.072,6a3tkCh4IRkloHPVYxwtZ0,243e3,4,A# major,Brown Eyes,The Fame (Revised International Version),Lady Gaga
+0.719,0.896,A#,-4.104,major,0.0413,0.121,2.47e-5,0.138,0.8,120.008,2UsdgG4NzhmwObtfyEMBjL,202493,4,A# major,I Like It Rough,The Fame (Revised International Version),Lady Gaga
+0.734,0.77,C#,-4.775,minor,0.0324,0.00307,0,0.0824,0.686,104.999,17xFcSuciJ9O10WqDERQep,253947,4,C# minor,Summerboy,The Fame (Revised International Version),Lady Gaga
+0.752,0.946,C,-3.398,major,0.0802,0.0388,1.21e-4,0.312,0.907,127.983,1uvJevFvRwq3AO1qzmXxhJ,221480,4,C major,Disco Heaven,The Fame (Revised International Version),Lady Gaga
+0.693,0.924,C,-3.711,major,0.0392,0.0034,4.4e-5,0.0926,0.715,118.983,1MV8RFTgUlAan2b6yYdv7U,294467,4,C major,Bad Romance,The Fame Monster (International Deluxe),Lady Gaga
+0.626,0.799,B,-6.612,minor,0.046,3.58e-4,0.00155,0.36,0.369,98.992,44XBLYMVEt5vJcb5qXfQ7V,274213,4,B minor,Alejandro,The Fame Monster (International Deluxe),Lady Gaga
+0.7,0.808,A,-4.522,minor,0.0446,0.00141,0,0.611,0.664,120.033,3lXHeWE9SsQiBVelevxycg,249253,4,A minor,Monster,The Fame Monster (International Deluxe),Lady Gaga
+0.386,0.697,C,-4.182,major,0.0383,0.436,0,0.337,0.407,145.091,0K6FtVODswtGTXxSeIdZxp,270827,4,C major,Speechless,The Fame Monster (International Deluxe),Lady Gaga
+0.641,0.784,C,-6.203,major,0.0318,2.49e-5,5.38e-5,0.181,0.101,120.999,31CmdBkYq97MNQv3LomKxH,288933,4,C major,Dance In The Dark,The Fame Monster (International Deluxe),Lady Gaga
+0.825,0.832,F,-5.853,minor,0.0403,0.00587,7.89e-4,0.114,0.713,122.021,00BuKLSAFkaEkaVAgIMbeA,220627,4,F minor,Telephone,The Fame Monster (International Deluxe),Lady Gaga
+0.557,0.789,C,-5.093,major,0.0313,3.26e-4,0.00305,0.153,0.367,99.982,2eotjTbwdFYdlNm8Dks6tx,234853,4,C major,So Happy I Could Die,The Fame Monster (International Deluxe),Lady Gaga
+0.713,0.833,B,-5.198,major,0.0487,0.0286,0,0.0868,0.55,96.012,2gxHiPW79a1zO5sWOtza3g,220693,4,B major,Teeth,The Fame Monster (International Deluxe),Lady Gaga
+0.823,0.74,C#,-4.545,minor,0.0313,0.026,5.09e-5,0.181,0.734,118.993,6DWtUxZkGjwSmlWXE9JYkT,241933,4,C# minor,Just Dance,The Fame Monster (International Deluxe),Lady Gaga
+0.894,0.678,F#,-5.611,minor,0.0524,0.00568,2.15e-6,0.305,0.843,105.026,0dIQM8VB2QkE2t9FNWBVFs,216333,4,F# minor,LoveGame,The Fame Monster (International Deluxe),Lady Gaga
+0.761,0.696,F,-3.975,minor,0.0429,0.109,0,0.0979,0.408,114.919,0DBIWikYnzcWygmvnG9kl5,208307,4,F minor,Paparazzi,The Fame Monster (International Deluxe),Lady Gaga
+0.851,0.806,E,-4.618,major,0.0788,0.12,1.39e-6,0.122,0.775,119.002,0le79px2kIBXQDxUe8ZUGP,237200,4,E major,Poker Face,The Fame Monster (International Deluxe),Lady Gaga
+0.727,0.899,A#,-4.083,major,0.0434,0.144,3.81e-6,0.167,0.798,120.013,6F4g57ovSStYJRVPtiF9RW,202493,4,A# major,I Like It Rough,The Fame Monster (International Deluxe),Lady Gaga
+0.802,0.871,C#,-3.661,minor,0.0365,0.256,2.53e-4,0.078,0.816,93.98,6z7HmyQFiVBJm1OzBknw38,175347,4,C# minor,"Eh, Eh (Nothing Else I Can Say)",The Fame Monster (International Deluxe),Lady Gaga
+0.876,0.633,G#,-5.938,minor,0.14,0.0237,0,0.051,0.519,103.006,5JdhyMlCbplg7fRbD2dZDw,216627,4,G# minor,Starstruck,The Fame Monster (International Deluxe),Lady Gaga
+0.79,0.904,D,-5.258,major,0.163,0.0188,0.051,0.302,0.678,120.074,1otbDMyp0Ngo6XJQ6ijFd5,172440,4,D major,"Beautiful, Dirty, Rich",The Fame Monster (International Deluxe),Lady Gaga
+0.818,0.696,F,-3.339,major,0.0518,0.0336,4.58e-6,0.034,0.966,127.015,2on7H9ThMaZP5bnD81JVFx,222107,4,F major,The Fame,The Fame Monster (International Deluxe),Lady Gaga
+0.771,0.752,A#,-3.284,minor,0.0472,0.0135,1.59e-4,0.0756,0.85,119.089,0htiMghFW3x5YGkduYT70e,170293,4,A# minor,Money Honey,The Fame Monster (International Deluxe),Lady Gaga
+0.716,0.68,A,-5.052,major,0.0412,0.0157,0,0.0632,0.782,123.073,1WnnCneexLElj047v148VP,200600,4,A major,Boys Boys Boys,The Fame Monster (International Deluxe),Lady Gaga
+0.753,0.84,G#,-5.062,major,0.0812,0.0547,1.23e-6,0.25,0.551,98.965,7M40kBGuhswAMt1yWpAXa4,263360,4,G# major,Paper Gangsta,The Fame Monster (International Deluxe),Lady Gaga
+0.738,0.507,A#,-4.765,major,0.0316,0.133,1.71e-5,0.0832,0.626,125.078,7L8fCQ95BlfsyMPQGKq7Sd,243e3,4,A# major,Brown Eyes,The Fame Monster (International Deluxe),Lady Gaga
+0.736,0.768,C#,-4.803,minor,0.0321,0.00333,0,0.0831,0.66,104.99,65NXLGPtKOxdfP8S2Tci65,253920,4,C# minor,Summerboy,The Fame Monster (International Deluxe),Lady Gaga
+0.749,0.94,C,-3.41,major,0.0774,0.0333,1.32e-4,0.322,0.923,127.974,0sbiX1Wr0SEtNQOOn4HiTe,221387,4,C major,Disco Heaven,The Fame Monster (International Deluxe),Lady Gaga
+0.867,0.759,A,-4.778,major,0.0618,0.0111,0.00126,0.0605,0.811,107.995,2Z0PpNM6g7LmLEUUDcPdJp,202907,4,A major,"Retro, Dance, Freak",The Fame Monster (International Deluxe),Lady Gaga
+0.607,0.875,C,-4.434,major,0.0605,0.00114,0.00765,0.467,0.457,131.058,02d1E4NRuh7OEQO4vCb9PD,264520,4,C major,Marry The Night,Born This Way (International Special Edition Version),Lady Gaga
+0.588,0.825,B,-5.075,major,0.156,0.00436,0,0.296,0.495,123.92,30XU4suKzCeoCK9YFzdufg,260253,4,B major,Born This Way,Born This Way (International Special Edition Version),Lady Gaga
+0.676,0.794,G,-6.673,major,0.037,2.45e-4,0.0304,0.447,0.455,119.975,6LGwEHsFbxt7BgDwGXqFgj,254267,4,G major,Government Hooker,Born This Way (International Special Edition Version),Lady Gaga
+0.665,0.929,A#,-3.769,minor,0.078,0.00113,1.92e-5,0.282,0.582,130.993,7F25roCtYi55JouckaayPC,249067,4,A# minor,Judas,Born This Way (International Special Edition Version),Lady Gaga
+0.612,0.848,C,-4.991,major,0.034,8.69e-4,1.37e-6,0.492,0.311,127.997,1sRByD63uI8ZJAOSPDczXF,246533,4,C major,Americano,Born This Way (International Special Edition Version),Lady Gaga
+0.566,0.922,F,-3.417,major,0.0564,0.00123,3.33e-5,0.167,0.413,135.027,4u8q2Gddnu8jqCFzxm5IZs,307893,4,F major,Hair,Born This Way (International Special Edition Version),Lady Gaga
+0.741,0.969,G#,-4.839,major,0.12,0.00492,1.22e-6,0.304,0.611,131.034,7DXGKFjM7GNkJd32oXstGY,225467,4,G# major,ScheiBe,Born This Way (International Special Edition Version),Lady Gaga
+0.593,0.643,A,-6.367,minor,0.0303,0.0123,1.89e-6,0.126,0.464,99.963,53jnnqFSRGMDB9ADrNriCA,244760,4,A minor,Bloody Mary,Born This Way (International Special Edition Version),Lady Gaga
+0.702,0.885,D,-4.207,major,0.0786,0.00728,0.0309,0.653,0.375,119.998,1yYwew5LDQhhiUEHVq4Dnp,216293,4,D major,Black Jesus + Amen Fashion,Born This Way (International Special Edition Version),Lady Gaga
+0.676,0.743,C#,-6.238,minor,0.0293,4.11e-5,0.00348,0.143,0.438,120.03,3V0kjls4TwzpkhTfILFiCj,230973,4,C# minor,Bad Kids,Born This Way (International Special Edition Version),Lady Gaga
+0.644,0.944,A,-4.678,major,0.048,6.92e-4,0,0.0939,0.331,123.062,5DvkRKRmPF2cn7Rf3Kc2TZ,219107,4,A major,Fashion Of His Love,Born This Way (International Special Edition Version),Lady Gaga
+0.559,0.747,C,-6.631,major,0.0349,3.56e-4,8.38e-5,0.617,0.293,127.994,7dCd3GD3UvQSsbR7V5dlkM,255747,4,C major,Highway Unicorn (Road To Love),Born This Way (International Special Edition Version),Lady Gaga
+0.603,0.643,F,-8.472,minor,0.0664,1.3e-4,0.0618,0.234,0.706,115.985,1UmrspTydTpzWfYqWUKXLg,252547,4,F minor,Heavy Metal Lover,Born This Way (International Special Edition Version),Lady Gaga
+0.699,0.924,A,-4.461,minor,0.042,0.0018600000000000001,6.93e-4,0.221,0.787,128.021,7B0zSMcY1H98W9uRCPrc33,252240,4,A minor,Electric Chapel,Born This Way (International Special Edition Version),Lady Gaga
+0.368,0.826,F#,-5.761,minor,0.0495,1.94e-4,0.00233,0.0614,0.476,144.002,0sUT8GAOF12VKvqJIMtUGP,316520,4,F# minor,The Queen,Born This Way (International Special Edition Version),Lady Gaga
+0.506,0.716,D,-5.171,major,0.0521,0.082,0,0.0892,0.518,127.031,1ADciGUxOaUbBFd0rpYx7d,307360,4,D major,You And I,Born This Way (International Special Edition Version),Lady Gaga
+0.581,0.768,A,-6.394,major,0.0425,3.28e-4,0.0138,0.109,0.382,127.941,57F80059mWaWFvWG3tBTbO,320547,4,A major,The Edge Of Glory,Born This Way (International Special Edition Version),Lady Gaga
+0.568,0.585,B,-6.112,major,0.0288,0.0902,0,0.27,0.537,124.022,2elGnFbtApIokL2MUooMeZ,261480,4,B major,Born This Way - The Country Road Version,Born This Way (International Special Edition Version),Lady Gaga
+0.789,0.475,C#,-7.76,major,0.0383,0.00259,0.374,0.101,0.217,131.006,0bWfxPhxOepDV01eMECRYl,247480,4,C# major,Judas - DJ White Shadow Remix,Born This Way (International Special Edition Version),Lady Gaga
+0.643,0.806,F,-5.981,major,0.0992,0.00462,0.00611,0.375,0.326,131.022,451LbKieOS7W3VMA1OaJKw,260573,4,F major,Marry The Night - Zedd Remix,Born This Way (International Special Edition Version),Lady Gaga
+0.703,0.805,F,-6.643,minor,0.0696,0.0256,2.64e-5,0.804,0.299,131.017,7BrZaypG7PzZMSEZ8cQBGx,575240,4,F minor,Scheiße - DJ White Shadow Mugler,Born This Way (International Special Edition Version),Lady Gaga
+0.614,0.809,A,-5.916,major,0.0542,9.83e-5,3.61e-6,0.156,0.506,122.956,0U9eU3pnA9ryE8AimH3xMW,225307,4,A major,Fashion Of His Love - Fernando Garibay Remix,Born This Way (International Special Edition Version),Lady Gaga
+0.594,0.917,C#,-3.915,minor,0.111,2.57e-5,0.00226,0.317,0.748,123.971,0SbJ3giZe1jAZgnO4dPaC9,359053,4,C# minor,Born This Way - Jost & Naaf Remix,Born This Way (International Special Edition Version),Lady Gaga
+0.707,0.827,C#,-4.907,major,0.058,0.0266,4.28e-6,0.159,0.439,129.973,18Lz4VF1dLAzXYAEW4Fmey,235733,4,C# major,Aura,ARTPOP,Lady Gaga
+0.808,0.886,F,-4.321,minor,0.0607,0.0244,0,0.0948,0.742,121.003,0mby3QJBZ5k4XDuds8dDyE,233720,4,F minor,Venus,ARTPOP,Lady Gaga
+0.618,0.919,F,-3.46,minor,0.0406,0.0172,0,0.118,0.53,109.998,3sQyifoaayj7MUTMxb5TjH,232667,4,F minor,G.U.Y.,ARTPOP,Lady Gaga
+0.678,0.715,G#,-4.304,major,0.0459,0.0294,0,0.0978,0.374,113.936,7jczFX9ZGyUBtMKAcmUmwI,214640,4,G# major,Sexxx Dreams,ARTPOP,Lady Gaga
+0.731,0.889,B,-4.157,minor,0.0849,0.00341,0,0.238,0.508,136.075,4CdXuqF87ita8Ossw446IF,228040,4,B minor,Jewels N' Drugs,ARTPOP,Lady Gaga
+0.671,0.918,F#,-3.218,minor,0.0434,0.00162,1.27e-6,0.822,0.891,138.06,0JOwgeALkCOCXbfDLrvoTJ,199787,4,F# minor,MANiCURE,ARTPOP,Lady Gaga
+0.797,0.821,A,-4.387,major,0.0692,0.311,9.19e-6,0.0952,0.567,97.476,4MJlgdrGLaayCTPtdn0kII,227307,4,A major,Do What U Want,ARTPOP,Lady Gaga
+0.749,0.686,C,-4.39,major,0.0562,0.00116,1.22e-5,0.0876,0.438,117.037,4t6HLZizcQiD8IvKUQU8il,247533,4,C major,ARTPOP,ARTPOP,Lady Gaga
+0.629,0.863,C,-3.686,major,0.2,0.00699,5.21e-5,0.618,0.193,127.918,5wLnc2YmvZoeO7iG4sZInn,268600,4,C major,Swine,ARTPOP,Lady Gaga
+0.695,0.811,F,-4.926,major,0.224,0.0151,0,0.438,0.624,124.962,75sQOid9BjI4pbw5GT3EmY,264960,4,F major,Donatella,ARTPOP,Lady Gaga
+0.605,0.802,E,-4.713,minor,0.049,0.00332,0,0.122,0.491,116.998,5ur5dydC3gIiZUMKS7U8Dk,239853,4,E minor,Fashion!,ARTPOP,Lady Gaga
+0.266,0.963,E,-4.583,minor,0.502,0.0182,0,0.357,0.212,204.068,0svMo0W9kF45GQKSPUYQ7h,277800,4,E minor,Mary Jane Holland,ARTPOP,Lady Gaga
+0.34,0.427,C,-6.484,minor,0.0326,0.668,0,0.082,0.173,130.572,4uzLUC10GP0m11MP72gPEr,221547,4,C minor,Dope,ARTPOP,Lady Gaga
+0.561,0.747,C,-4.302,major,0.0408,0.0118,0,0.156,0.4,133.901,1WGiezPGli6yE3cm87xyVW,248707,4,C major,Gypsy,ARTPOP,Lady Gaga
+0.67,0.787,G,-4.277,minor,0.0519,0.0228,1.74e-6,0.125,0.713,139.906,1C79CxJdMHjk9RkwX04DRh,212333,4,G minor,Applause,ARTPOP,Lady Gaga
+0.631,0.631,C,-5.583,major,0.0576,0.667,0,0.0791,0.767,78.472,3DCureK29QPs0KUqzb5J3y,123973,4,C major,Anything Goes,Cheek To Cheek (Deluxe),Tony Bennett
+0.584,0.429,C,-8.398,major,0.0712,0.816,0,0.146,0.555,94.031,0HuhtLZ5HlVFvh2KVgn8Gc,170547,4,C major,Cheek To Cheek,Cheek To Cheek (Deluxe),Tony Bennett
+0.281,0.287,C,-12.154,major,0.0341,0.8,9.75e-5,0.116,0.305,84.109,4vAAAb4BtRdFZSmwk4OGc4,156267,1,C major,Don't Wait Too Long,Cheek To Cheek (Deluxe),Tony Bennett
+0.513,0.513,D,-7.299,major,0.0461,0.527,2.21e-4,0.304,0.561,125.92,0w5JVpnIw2dM8AO8LYiFYi,193307,4,D major,I Can't Give You Anything But Love,Cheek To Cheek (Deluxe),Tony Bennett
+0.288,0.266,C#,-11.165,major,0.0291,0.953,0.00868,0.0907,0.253,138.745,3giSAdFOdYGxHJzoPnKF1a,248427,4,C# major,Nature Boy,Cheek To Cheek (Deluxe),Tony Bennett
+0.62,0.667,G,-8.233,major,0.0755,0.695,0,0.227,0.512,97.055,0iOIyNObRzyhi2yqGl3Lrq,131827,4,G major,Goody Goody,Cheek To Cheek (Deluxe),Tony Bennett
+0.346,0.135,G,-13.425,major,0.0316,0.967,1.2e-6,0.12,0.19,91.866,6T3etpLQxgeEmgHB6Yyiec,190293,3,G major,Ev'ry Time We Say Goodbye,Cheek To Cheek (Deluxe),Lady Gaga
+0.604,0.57,C#,-6.193,major,0.0757,0.619,0,0.0975,0.765,92.401,79cvTochG64uboVnR7XPHQ,117640,4,C# major,Firefly,Cheek To Cheek (Deluxe),Tony Bennett
+0.544,0.493,D#,-6.713,major,0.0591,0.731,1.01e-6,0.128,0.657,127.5,7qxuMFAuJEWRpjEuDC9Lrn,236720,4,D# major,I Won't Dance,Cheek To Cheek (Deluxe),Tony Bennett
+0.66,0.551,F#,-6.936,minor,0.0683,0.809,0,0.179,0.909,89.165,1idHKoMgNicZ3OT4ysltjQ,108560,4,F# minor,They All Laughed,Cheek To Cheek (Deluxe),Tony Bennett
+0.284,0.157,D#,-10.309,minor,0.0344,0.936,0,0.112,0.112,168.372,2euFq1RsVBeG6nPyBuyPjh,254693,3,D# minor,Lush Life,Cheek To Cheek (Deluxe),Lady Gaga
+0.454,0.179,E,-12.02,minor,0.0343,0.974,1.14e-5,0.123,0.183,135.642,5V9I9FVh1bOJAFrFfH0X3r,229453,4,E minor,Sophisticated Lady,Cheek To Cheek (Deluxe),Tony Bennett
+0.507,0.647,D,-6.7,major,0.0566,0.694,2.59e-5,0.408,0.674,122.182,45RQFwcp4WsXTzt21TCyeA,126760,4,D major,Let's Face The Music And Dance,Cheek To Cheek (Deluxe),Tony Bennett
+0.222,0.192,G,-12.205,major,0.0306,0.934,0.00439,0.112,0.137,97.746,3J1sw9LKG3uF78m34S6OSx,244080,4,G major,But Beautiful,Cheek To Cheek (Deluxe),Tony Bennett
+0.543,0.769,F,-5.981,minor,0.0671,0.805,0.00671,0.218,0.886,117.038,1SrCd0IQSkXhqrj4hOdezq,143707,4,F minor,It Don't Mean A Thing (If It Ain't Got That Swing),Cheek To Cheek (Deluxe),Tony Bennett
+0.661,0.648,D#,-5.385,minor,0.0682,0.0696,1.09e-6,0.126,0.332,127.764,2dCcDpm6O6ocomusl5ao6p,210427,4,D# minor,Diamond Heart,Joanne (Deluxe),Lady Gaga
+0.664,0.889,G,-5.675,major,0.155,0.101,0,0.111,0.927,149.955,6FopJmIHgp2ADIHEDrJixZ,207720,4,G major,A-YO,Joanne (Deluxe),Lady Gaga
+0.549,0.407,G,-8.481,major,0.0269,0.148,0,0.101,0.383,149.753,1mcb6XOtbQLn3CpwEUcMPk,196907,4,G major,Joanne,Joanne (Deluxe),Lady Gaga
+0.604,0.655,B,-5.829,minor,0.0313,0.00118,3.53e-4,0.343,0.503,96.947,3wk0wpKHxdPDQvkHkxqNix,174307,4,B minor,John Wayne,Joanne (Deluxe),Lady Gaga
+0.636,0.726,C,-7.791,minor,0.162,0.028,2.93e-4,0.198,0.791,171.94,2GQqWDHGKDsVHcWZXm3Sb9,207173,4,C minor,Dancin' In Circles,Joanne (Deluxe),Lady Gaga
+0.616,0.861,C#,-5.464,minor,0.0376,0.00145,0,0.357,0.68,124.988,5ou59ERA2f7ffyAxAcZyVz,182e3,4,C# minor,Perfect Illusion,Joanne (Deluxe),Lady Gaga
+0.668,0.449,C,-7.897,major,0.0451,0.477,0,0.107,0.154,129.889,50PWlIBU7PlGGwzgN8TiFJ,205280,4,C major,Million Reasons,Joanne (Deluxe),Lady Gaga
+0.594,0.716,G,-7.285,major,0.0471,0.201,2.14e-4,0.17,0.741,92.327,7tDYKT2AT0RX6yOb7s8gNG,223387,4,G major,Sinner's Prayer,Joanne (Deluxe),Lady Gaga
+0.234,0.866,C,-5.804,major,0.227,0.0165,0,0.138,0.536,179.906,6RZuE1WVQEbt5FKpwEkX2m,254773,3,C major,Come To Mama,Joanne (Deluxe),Lady Gaga
+0.753,0.461,A#,-7.898,major,0.0406,0.0516,5.15e-6,0.0668,0.586,138.048,0EXCM7BBtzXO3HdqkNIQUS,255413,4,A# major,Hey Girl,Joanne (Deluxe),Lady Gaga
+0.307,0.323,A,-11.212,major,0.0342,0.786,0,0.107,0.0699,128.659,7IjDtJ8aINqNG3XK7WLlUh,229147,4,A major,Angel Down,Joanne (Deluxe),Lady Gaga
+0.733,0.523,C#,-9.358,major,0.0574,0.366,0,0.693,0.566,127.779,6P7Bv8n2qffIVKxTsh0Eg7,180467,4,C# major,Grigio Girls,Joanne (Deluxe),Lady Gaga
+0.624,0.451,A,-8.93,major,0.0312,0.12,0,0.105,0.698,166.85,6JlkhXazxnWYKhKkm4a74M,178e3,4,A major,Just Another Day,Joanne (Deluxe),Lady Gaga
+0.651,0.243,C,-8.297,major,0.0309,0.577,0,0.108,0.19,111.709,24X7bMsJeLopdHXpLwyUmB,139827,4,C major,Angel Down - Work Tape,Joanne (Deluxe),Lady Gaga

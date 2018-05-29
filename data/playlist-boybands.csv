@@ -1,0 +1,195 @@
+danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_uri,duration_ms,time_signature,key_mode,track_name,album_name,artist
+0.614,0.928,G#,-4.806,minor,0.0516,0.0408,0.00104,0.0845,0.879,172.656,4r8lRYnoOGdEi6YyI5OC1o,200560,4,G# minor,Bye Bye Bye,No Strings Attached,*NSYNC
+0.731,0.853,A#,-4.219,minor,0.0363,0.0352,0,0.268,0.605,108.016,1di1BEgJYzPvXUuinsYJGP,225360,4,A# minor,Everybody (Backstreet's Back) - Radio Edit,Backstreet's Back,Backstreet Boys
+0.787,0.63,C,-12.295,major,0.0609,0.0274,6.69e-6,0.161,0.882,125.347,6J6RWKCPN5RFKHUKEUFjxS,267293,4,C major,Step by Step,Step By Step,New Kids On The Block
+0.751,0.939,G#,-3.305,minor,0.0466,0.0521,5.6e-4,0.477,0.905,112.041,221LRlPHPuevgE1tuUlof9,200440,4,G# minor,I Want You Back - Radio Edit,'N Sync UK Version,*NSYNC
+0.469,0.386,D,-12.112,major,0.0272,0.103,1.2e-5,0.291,0.383,102.476,2QqbBVwpyJn7SL7thga35w,207467,4,D major,Tonight,Step By Step,New Kids On The Block
+0.788,0.522,C,-13.029,minor,0.0578,0.0126,1.35e-6,0.0671,0.923,111.578,4buDeg67vos7KP1yHrS9wl,249960,4,C minor,You Got It (The Right Stuff),Hangin' Tough,New Kids On The Block
+0.6,0.663,D#,-5.802,major,0.0477,0.225,0,0.119,0.286,121.07,4nVBt6MZDDP6tRVdQTgxJg,245493,4,D# major,Story of My Life,Midnight Memories (Deluxe),One Direction
+0.676,0.95,G,-3.513,major,0.0473,0.0763,0,0.807,0.645,103.988,5jZlPGOiYTcBjgVCXofrOz,22e4,4,G major,That's The Way I Like It,Backstreet's Back,Backstreet Boys
+0.658,0.837,D,-2.063,major,0.0543,0.0629,0,0.0969,0.936,126.015,6aGjEZ7kq3YXgD0EDt80O5,200187,4,D major,Live While We're Young,Take Me Home: Yearbook Edition,One Direction
+0.652,0.877,C#,-2.986,major,0.0465,0.0227,0,0.0789,0.486,118.491,5T7ZFtCcOgkpjxcuaeZbw0,200107,4,C# major,Best Song Ever,Midnight Memories (Deluxe),One Direction
+0.668,0.951,D,-3.453,major,0.0784,0.0324,0,0.338,0.826,113.986,7yMnml7zdYl5LlDFZPm5Hd,175093,4,D major,Burnin' Up,A Little Bit Longer,Jonas Brothers
+0.602,0.677,G,-3.849,major,0.0628,5.09e-4,0,0.152,0.751,137.03,1ZP0sKDoVM1NCFB65Esfm6,153347,4,G major,S.O.S.,Jonas Brothers,Jonas Brothers
+0.641,0.725,G,-6.111,minor,0.0943,0.271,0,0.463,0.681,128.126,4b4c0oH7PtrPsI86drzgFs,198800,4,G minor,Chasing The Sun,The Wanted (Special Edition),The Wanted
+0.6,0.499,E,-6.102,major,0.0624,0.109,0,0.17,0.516,158.136,3Q0Ngf7Llu1KIteVHRfiXw,220693,4,E major,Lovebug,A Little Bit Longer,Jonas Brothers
+0.383,0.772,D,-3.703,major,0.0345,0.0285,0,0.289,0.467,135.99,5QbWc5ipIn02XePjT0Tvaf,249693,4,D major,When You Look Me In The Eyes,Jonas Brothers,Jonas Brothers
+0.572,0.786,G#,-8.469,major,0.0642,0.519,0.00093000000000000005,0.11,0.952,188.115,6cb0HzFQPN4BGADOmSzPCw,174867,4,G# major,ABC,ABC,The Jackson 5
+0.664,0.739,F,-5.342,minor,0.0713,0.00684,0,0.0439,0.851,90.006,6FkX1akf4mwRZSznL73kDR,189547,4,F minor,24/Seven,24/seven,Big Time Rush
+0.593,0.889,D,-6.326,major,0.0454,0.00206,0,0.111,0.83,125.694,7cnfSpQsV2fDTgfcIbfYUu,235533,4,D major,A Minute Without You,Middle Of Nowhere,Hanson
+0.61,0.899,D#,-4.116,major,0.0414,0.00273,2.63e-5,0.103,0.377,134.932,7D3JBDIclfiRIydnduKHBN,203619,4,D# major,Lightning,Battleground,The Wanted
+0.662,0.82,B,-5.268,major,0.0566,0.22,0,0.125,0.411,89.966,65vfVmMkBs9z1K1sgviVOu,243813,4,B major,Penny & Me,Underneath,Hanson
+0.592,0.489,C#,-10.509,major,0.0385,0.806,1.25e-5,0.116,0.196,98.47,3hQ3u1yJvWKCOZzUHVzYxS,292400,4,C# major,4 Seasons Of Loneliness,Evolution,Boyz II Men
+0.543,0.937,B,-3.998,major,0.135,0.00624,0,0.242,0.588,103.917,6XS8t28Zl7a9LiZacsRdNK,206162,4,B major,We Own The Night,Word Of Mouth (Deluxe),The Wanted
+0.485,0.928,C,-4.402,major,0.0381,4.89e-5,0.00479,0.179,0.329,129.997,6OpvWZCJbxLfqw7mSh1KPe,239187,4,C major,Already Home,Anthem,Hanson
+0.586,0.896,D#,-4.572,major,0.11,0.114,0,0.175,0.381,94.954,4kpewfJPc1FWCuOMaDha1k,176360,4,D# major,Like Nobody's Around,24/seven,Big Time Rush
+0.52,0.697,G,-4.175,major,0.0284,0.036,3.54e-6,0.124,0.525,152.119,6pZy8jUuTEQ8Fg8DARnIKD,244253,4,G major,Go,The Walk,Hanson
+0.557,0.796,D#,-4.147,major,0.0482,0.00411,0,0.0951,0.457,127.999,2dMjy70ufAcxK2ib7pEW4n,242973,4,D# major,Confetti Falling,24/seven,Big Time Rush
+0.907,0.474,B,-9.709,minor,0.0512,0.129,5.02e-6,0.0567,0.981,118.903,5Fkh7Dxu5r8G7B7sQBAIIa,248867,4,B minor,Hold Me,15 Años De Historia,Menudo
+0.608,0.564,G#,-7.017,major,0.0334,0.264,0,0.121,0.186,116.687,5on5ilENckx5vV7d50yvIt,331493,4,G# major,On Bended Knee,Twenty,Boyz II Men
+0.531,0.881,A,-3.909,major,0.0402,0.00318,0,0.129,0.268,130.104,76iyBw2Q1HAnnR2SVYa6iL,225507,4,A major,We Are,24/seven,Big Time Rush
+0.294,0.437,F,-6.358,major,0.0266,0.675,0,0.277,0.216,145.222,1V1X4WvjJUomAk58FJPEeI,265480,4,F major,If You're Not Here (By My Side),Lo Mejor De Lo Mejor,Menudo
+0.528,0.817,D#,-5.896,major,0.0374,0.0634,0,0.332,0.883,172.067,6VrLYoQKdhu1Jruei06t65,185098,4,D# major,Somebody To You,Meet The Vamps,The Vamps
+0.859,0.907,F,-7.547,major,0.0962,0.197,1.49e-5,0.293,0.963,132.878,0M6dPxqcQPxWVTFDGWstW0,184040,4,F major,"Solo Tu, Solo Yo",Lo Mejor De Lo Mejor,Menudo
+0.612,0.906,C#,-4.829,major,0.032,5.58e-4,0,0.0641,0.776,119.01,78a5CHuPIXYlPYVQIjH9nc,191871,4,C# major,Wild Heart,Meet The Vamps,The Vamps
+0.499,0.929,G,-3.876,major,0.11,0.00648,0,0.252,0.873,174.861,1r2a7tTkttQLW21ydU4ERp,146604,4,G major,Rockin' Robin,Memory Lane (The Best Of McFly) [Deluxe Edition],McFly
+0.828,0.777,G,-3.356,major,0.0513,0.0901,0,0.0973,0.867,120.04,3AqhGYasXnen5PvLsHL1vc,216093,4,G major,"Girls Talk Boys (from the ""Ghostbusters"" Original Motion Picture Soundtrack)",Ghostbusters (Original Motion Picture Soundtrack),5 Seconds of Summer
+0.539,0.634,A#,-8.752,major,0.0287,0.114,3.95e-5,0.201,0.349,135.75,0G2Rd4vct0AYN8EG6Ajm6u,242293,4,A# major,Weird,Middle Of Nowhere,Hanson
+0.8,0.875,B,-4.952,minor,0.0338,0.0615,2.79e-6,0.13,0.882,100.033,1nRwyxNsqCLeA17qR8Nfxx,233533,4,B minor,Quit Playing Games (With My Heart),Backstreet Boys,Backstreet Boys
+0.761,0.838,E,-3.073,minor,0.0502,0.4,0,0.176,0.71,93.974,3AEZUABDXNtecAOSC1qTfo,222560,4,E minor,Reggaetón Lento (Bailemos),Primera Cita,CNCO
+0.493,0.956,C#,-4.221,minor,0.138,6.68e-4,0,0.416,0.47,160.006,1gugDOSMREb34Xo0c1PlxM,202496,4,C# minor,She Looks So Perfect,5 Seconds Of Summer,5 Seconds of Summer
+0.686,0.763,C,-6.085,major,0.0325,0.0127,0,0.476,0.917,136.983,46Tcp6RuhTjK027uwE47XB,196369,4,C major,Rest Your Love,Wake Up (Deluxe),The Vamps
+0.656,0.602,F,-6.236,major,0.0309,0.00562,0,0.0794,0.711,82.014,2TMBrwtLrxDmNkCkDqkWaj,191093,4,F major,Juliet,Anthem,Hanson
+0.73,0.703,C,-5.672,minor,0.0369,0.109,0,0.0657,0.595,138.113,2K87XMYnUMqLcX3zvtAF4G,192120,4,C minor,Drag Me Down,Made In The A.M. (Deluxe Edition),One Direction
+0.573,0.848,F#,-4.526,major,0.0311,5.7e-5,3.13e-5,0.145,0.55,117.169,6nRpOFGuJ0ok24wqkYWQrz,294120,4,F# major,Watch Over Me,The Walk,Hanson
+0.656,0.76,F#,-5.147,minor,0.032,1.14e-4,2.3e-4,0.228,0.629,127.06,7CFAtVtqqsoLWMY42Lhczs,210200,4,F# minor,Fired Up,Anthem,Hanson
+0.597,0.781,C#,-6.328,major,0.0313,0.00557,1.05e-6,0.082,0.274,93.969,0PxcoUrgHYxueN01gfbif5,193512,4,C# major,Wake Up,Wake Up (Deluxe),The Vamps
+0.484,0.84,B,-7.374,minor,0.104,0.0256,0.0291,0.224,0.92,189.342,3jbjSN8y9VRgIVz0jGpF3A,164093,4,B minor,Chicle De Amor,15 Años De Historia,Menudo
+0.432,0.868,F#,-2.01,minor,0.0882,0.00725,0,0.233,0.567,156.128,5wjmqUGN7vrAqFqDWrywlZ,176320,4,F# minor,Midnight Memories,Midnight Memories (Deluxe),One Direction
+0.664,0.922,B,-4.322,major,0.0299,0.00603,7.86e-5,0.25,0.973,129.025,1pjck48goeorhgKgM7Qoot,226413,4,B major,Get The Girl Back,Anthem,Hanson
+0.305,0.258,F,-11.329,major,0.0285,0.525,1.71e-5,0.162,0.175,142.664,5BUEw7HHOMjS7rnv5yUW8Q,268867,4,F major,Si Tu No Estas,15 Años De Historia,Menudo
+0.536,0.768,A#,-5.948,minor,0.0347,0.00433,0,0.114,0.545,77.217,2Bs4jQEGMycglOfWPBqrVG,228133,4,A# minor,Steal My Girl,FOUR (Deluxe),One Direction
+0.67,0.976,C#,-2.222,minor,0.0928,0.066,1.82e-6,0.297,0.9,147.994,2ObnCHpm1wV1pAl5niltVr,198053,4,C# minor,Pom Poms,Pom Poms,Jonas Brothers
+0.687,0.918,G,-4.676,major,0.0392,0.00211,1.26e-5,0.344,0.747,110.06,73q3FpQVXWk5eSUnyo83E4,209400,4,G major,Tearin' up My Heart - Radio Edit,'N Sync UK Version,*NSYNC
+0.757,0.641,E,-4.87,major,0.0532,0.038,3.77e-4,0.115,0.796,133.975,7jhTSo8iEMu1N6MIQK0ElA,216667,4,E major,I Was Born,Middle of Everywhere - The Greatest Hits,Hanson
+0.403,0.883,E,-3.385,major,0.087,0.101,0,0.109,0.767,202.013,0GmkiJnO9y6FUxWpygHcsu,201720,4,E major,Amazing,24/seven,Big Time Rush
+0.644,0.874,C,-4.666,minor,0.0801,0.0459,2.24e-6,0.0584,0.882,165.09,35zGjsxI020C2NPKp2fzS7,191040,4,C minor,It's Gonna Be Me,No Strings Attached,*NSYNC
+0.598,0.282,B,-17.227,major,0.0256,0.282,0,0.105,0.305,134.706,1cy5US2dffz6QGBAIzOGkq,263933,4,B major,I'll Be Loving You (Forever),Hangin' Tough,New Kids On The Block
+0.757,0.883,D,-6.133,major,0.0303,0.00773,1.45e-4,0.109,0.738,106.127,4HEtWYYzROeE4KmZJald5V,245e3,4,D major,I Wanna Be with You,Backstreet Boys,Backstreet Boys
+0.699,0.403,B,-8.564,minor,0.0614,0.421,0,0.126,0.5,113.922,5efcmnfzIROJ5Aj7EGSDm8,292e3,4,B minor,Gone,Celebrity,*NSYNC
+0.562,0.718,A,-6.551,major,0.0269,0.0433,0,0.174,0.51,86.964,6aw26tMh7aY9S7rqQDDaIQ,240733,4,A major,Thinking Of You (I Drive Myself Crazy) - Remix,'N Sync UK Version,*NSYNC
+0.55,0.581,D,-6.253,major,0.0325,0.367,0,0.122,0.475,165.981,2Dp2LRrY71XIfLe3co2Qnh,283507,4,D major,This I Promise You,No Strings Attached,*NSYNC
+0.561,0.495,D#,-7.953,minor,0.0253,0.47,0,0.108,0.42,157.916,6h4JFamZhYCPtR6WkrFdv4,274227,3,D# minor,If I Don't Have You,Backstreet's Back,Backstreet Boys
+0.641,0.43,C#,-13.314,minor,0.0283,0.306,0,0.162,0.506,137.807,3UxhGH45xEy6J2JJwm3izJ,265040,4,C# minor,Didn't I (Blow Your Mind This Time),New Kids On The Block,New Kids On The Block
+0.842,0.611,F,-8.166,minor,0.0471,0.0808,5.95e-4,0.165,0.517,102.018,024v6TtQuwzaudtdWFEOuM,183e3,4,F minor,Nobody but You,Backstreet Boys,Backstreet Boys
+0.56,0.346,C,-9.403,minor,0.0287,0.642,0,0.408,0.195,130.972,1GBr3WGJzV6lGycAS8SBbv,243973,3,C minor,10.000 Promises,Backstreet's Back,Backstreet Boys
+0.797,0.742,C#,-11.525,major,0.0522,0.0142,1.5e-4,0.131,0.97,117.932,6WpyPj5AUXMEdGQacspgg0,250827,4,C# major,Call It What You Want,Step By Step,New Kids On The Block
+0.268,0.393,D#,-9.141,major,0.0346,0.852,0,0.292,0.376,91.504,6dHBZ2nTEX7uKsTl5kyAhh,177880,3,D# major,It’s So Hard To Say Goodbye To Yesterday,Twenty,Boyz II Men
+0.765,0.753,C#,-12.001,major,0.0614,0.123,0.00383,0.0396,0.944,103.634,1YSKaDJIAgIVHTar7w1JBY,287533,4,C# major,Popsicle,New Kids On The Block,New Kids On The Block
+0.8,0.898,D,-5.399,major,0.0947,0.0138,5.27e-5,0.254,0.7,113.997,2C8IlWocdkqSVSYPf7Fxbz,226853,4,D major,Motownphilly,Twenty,Boyz II Men
+0.567,0.441,G,-8.987,major,0.035,0.482,0,0.142,0.143,75.03,1XL1tUzIm9MiWZzYwdhRBH,303373,4,G major,A Song For Mama,Evolution,Boyz II Men
+0.442,0.855,A,-3.729,major,0.0321,0.0592,0,0.205,0.654,149.355,0bFNI1RFyoesVfrcozHnPH,252671,4,A major,Lola,Memory Lane (The Best Of McFly) [Deluxe Edition],McFly
+0.689,0.694,F#,-5.83,minor,0.027,0.257,0,0.148,0.482,99.039,47BBI51FKFwOMlIiX6m8ya,213307,4,F# minor,I Want It That Way,Millennium,Backstreet Boys
+0.541,0.703,C,-5.573,major,0.102,0.0218,0,0.0964,0.238,94.858,79Mjfhh393dZdAsTvUFDR6,215724,4,C major,Don't Go Breaking My Heart,Don't Go Breaking My Heart,Backstreet Boys
+0.775,0.816,C,-5.534,major,0.0281,0.164,0,0.126,0.753,98.219,1qMTqzU9Uy8z7EzzaiwgsD,214333,4,C major,As Long as You Love Me,Backstreet Boys,Backstreet Boys
+0.575,0.786,A,-4.353,major,0.0296,0.252,0,0.159,0.518,96.102,2u2w0HS7Rk6EO5UuuekYfO,230093,4,A major,Shape of My Heart,Black & Blue,Backstreet Boys
+0.661,0.973,C,-2.994,minor,0.037,0.11,1.74e-5,0.617,0.75,108.037,6sbXGUn9V9ZaLwLdOfpKRE,232827,4,C minor,Larger Than Life,Millennium,Backstreet Boys
+0.596,0.854,G,-5.114,minor,0.463,0.0169,0,0.124,0.152,120.274,55S2PQgSMYAhgoTCcGCDfw,203418,4,G minor,Youngblood,Youngblood,5 Seconds of Summer
+0.608,0.873,C,-4.928,major,0.0424,0.00748,0,0.196,0.589,98.009,2Pvr8rYuh5J8V7QglJhH6W,173073,4,C major,Want You Back,Want You Back,5 Seconds of Summer
+0.558,0.491,D,-5.246,major,0.0309,0.0292,0,0.212,0.11,101.131,0dIOvducp7ujHTqj66cQ3X,237248,4,D major,Amnesia,5 Seconds Of Summer,5 Seconds of Summer
+0.566,0.96,G#,-3.449,major,0.063,0.00306,3.58e-5,0.0395,0.885,149.977,4PCVZGch6Q57RVAcai9L8u,169936,4,G# major,Don't Stop,5 Seconds Of Summer,5 Seconds of Summer
+0.666,0.903,E,-4.82,major,0.0308,0.00207,0,0.11,0.883,118.034,2G2EVFuJDHIkxilPBeXnDp,216454,4,E major,She's Kinda Hot,Sounds Good Feels Good (Deluxe),5 Seconds of Summer
+0.51,0.847,B,-4.263,minor,0.034,1.58e-4,0,0.085,0.551,153.941,6UYe99X2ZfDPD6h5S6KnPD,221716,4,B minor,Jet Black Heart,Sounds Good Feels Good (Deluxe),5 Seconds of Summer
+0.532,0.917,E,-5.214,major,0.082,0.0129,0,0.119,0.599,141.065,0BO6iWcPj20UGEl224pHWA,206424,4,E major,Good Girls,5 Seconds Of Summer,5 Seconds of Summer
+0.477,0.794,A#,-3.637,major,0.0592,0.00122,0,0.0669,0.705,167.011,4V84hb0KLUwGgLoXfX0YMa,198374,4,A# major,Heartbreak Girl,5 Seconds Of Summer,5 Seconds of Summer
+0.63,0.625,F#,-5.088,minor,0.0252,0.231,0,0.0765,0.683,167.998,3BsaRV5QIulYz2lV9WWa8T,234960,4,F# minor,Show Me the Meaning of Being Lonely,Millennium,Backstreet Boys
+0.574,0.825,F#,-4.364,major,0.0392,0.0768,0,0.111,0.479,141.962,29qMr89mdYMCeaGSpqkfPA,266853,4,F# major,Drowning,The Essential Backstreet Boys,Backstreet Boys
+0.616,0.845,G,-5.609,major,0.0471,0.0367,0,0.183,0.815,121.064,2aCZEkOUjQyi1trrGRcxI0,197133,4,G major,Big Time Rush,Big Time Rush,Big Time Rush
+0.568,0.865,F,-3.653,major,0.0486,0.00632,0,0.158,0.55,122.014,1krIwuDavTIZ3ug1Z18Gk5,237947,4,F major,Til I Forget About You,Til I Forget About You,Big Time Rush
+0.675,0.762,A,-3.729,minor,0.0468,0.198,0,0.0771,0.702,111.978,6rLYsNxYB1W8pfa2nRHScA,220467,4,A minor,Any Kind of Guy,Any Kind of Guy,Big Time Rush
+0.481,0.925,D#,-2.861,major,0.102,0.0194,0,0.12,0.318,143.079,1KKTVzxdyFKdKTWYnTSDES,205760,4,D# major,Halfway There,Halfway There,Big Time Rush
+0.523,0.921,B,-3.645,major,0.132,0.0963,0,0.136,0.558,122.983,4pVxvjxukmMk9bYhncOGhU,193e3,4,B major,City Is Ours,City Is Ours,Big Time Rush
+0.561,0.579,F,-6.022,minor,0.0243,0.0343,0,0.0673,0.55,74.822,3ZxhEGcEmCuwyBzwqCa7oW,349135,3,F minor,End Of The Road,Cooleyhighharmony - Expanded Edition,Boyz II Men
+0.559,0.49,D,-8.06,major,0.0247,0.103,0,0.099,0.202,142.447,7dfl9X38RhIvB3oSmmneq3,236760,3,D major,I'll Make Love To You,II,Boyz II Men
+0.633,0.513,G#,-8.246,major,0.0336,0.377,0,0.118,0.185,116.631,4Gmkqn3V7IMTkOmmiX7cbb,329800,4,G# major,On Bended Knee,II,Boyz II Men
+0.707,0.942,D,-5.32,major,0.105,0.0057,1e-5,0.177,0.832,114.173,058LC5qOG4VDaa4scqYc6v,235265,4,D major,Motownphilly,Cooleyhighharmony - Expanded Edition,Boyz II Men
+0.587,0.369,C,-12.994,major,0.0262,0.462,0,0.079,0.529,89.599,1i1H1aogIEHNLtNLxCxQsF,201387,4,C major,Water Runs Dry,II,Boyz II Men
+0.891,0.558,G#,-3.036,minor,0.067,0.00129,0,0.0287,0.747,101.952,3zSGtdgRCd5a098UzKZ7Ec,211840,4,G# minor,Roll Wit Me,Full Circle,Boyz II Men
+0.803,0.705,A#,-5.316,major,0.0624,0.107,3.6e-6,0.147,0.49,90.995,71GAvRsilpo9pqd0vYn8Mo,174200,4,A# major,Mamita,CNCO,CNCO
+0.761,0.838,E,-3.073,minor,0.0502,0.4,0,0.176,0.71,93.974,7czN4M4Ji8CnVXNdpMqYwK,222560,4,E minor,Reggaetón Lento (Bailemos),Primera Cita,CNCO
+0.798,0.809,F,-6.152,major,0.0839,0.0317,0,0.214,0.471,90.006,1XgpK29CGGjZnxPYkiRbh4,206920,4,F major,Hey DJ,CNCO,CNCO
+0.757,0.709,B,-5.342,minor,0.0746,0.144,0,0.354,0.466,93.992,6ziVPV26v172Pijs6LvubI,190840,4,B minor,Bonita,CNCO,CNCO
+0.674,0.811,G,-2.324,major,0.135,0.0984,0,0.0527,0.838,188.19,4JNV7HMbKr28YZiUvQTfIy,167987,4,G major,Sólo Yo,CNCO,CNCO
+0.69,0.832,A,-4.116,major,0.0956,0.0168,0,0.514,0.572,91.972,0CrcWtJQB7bQE6S1yEbxnP,215e3,4,A major,Mi Medicina,CNCO,CNCO
+0.706,0.884,A#,-3.767,major,0.0435,0.292,0,0.344,0.506,90.036,6tfeeNNcvK8JUOLC1aYXNm,210600,4,A# major,Tan Fácil,Primera Cita,CNCO
+0.817,0.676,D,-4.607,major,0.0379,0.0924,0,0.0988,0.796,115.999,6MbmpIblXPvQUGZZGsWrW6,188533,4,D major,Para Enamorarte,Primera Cita,CNCO
+0.663,0.874,C,-3.783,major,0.0506,0.147,0,0.367,0.554,91.85,5RFoXzsfsmq19XVNL7tjAs,185240,4,C major,Quisiera,Primera Cita,CNCO
+0.692,0.912,A,-7.733,major,0.0513,0.00456,0.00273,0.0616,0.642,104.862,4PgPnzbAgjCQ2eA6YAWcUw,238533,4,A major,MMMBop - Single Version,Guilty Pleasures (International Version),Hanson
+0.543,0.812,C#,-5.323,minor,0.0293,0.022,0,0.269,0.309,145.123,7wzxUErTA9Jw7UdZIeu1bi,222573,4,C# minor,Save Me,This Time Around,Hanson
+0.437,0.723,C#,-7.013,major,0.0471,0.0884,3.91e-5,0.113,0.344,139.765,4dZcpH5Yuh3sBvFf53lsuj,251293,4,C# major,I Will Come To You,Middle Of Nowhere,Hanson
+0.623,0.833,B,-3.301,major,0.0328,0.115,3.09e-6,0.125,0.825,89.055,1KOSVFgBDV59NnY20CsB83,212733,4,B major,Been There Before,The Walk,Hanson
+0.605,0.906,G,-6.187,major,0.0724,0.0272,1.75e-4,0.236,0.909,172.137,6JGaZ0N4qhTCCsTAFHVUq4,225400,4,G major,Give A Little,Shout It Out,Hanson
+0.549,0.983,D,-3.684,major,0.0683,0.0033,0,0.0749,0.772,105.964,7HuIvjeVIycYejXy1R7F7X,272307,4,D major,If Only,This Time Around,Hanson
+0.585,0.972,D,-5.125,major,0.047,0.00176,3.59e-6,0.172,0.607,115.812,1MVKRAYH0KRBqngfto8szW,252360,4,D major,Where's The Love,Middle Of Nowhere,Hanson
+0.639,0.548,G#,-13.534,major,0.0394,0.29,9.68e-5,0.366,0.887,98.359,3b0EOvScbZUc0qJx0E1L2z,176333,4,G# major,I Want You Back,Diana Ross Presents The Jackson 5,The Jackson 5
+0.25,0.312,G,-13.117,major,0.033,0.674,2.41e-5,0.244,0.45,160.262,5hLYFkl1CEKay2hKRbZSsG,235640,3,G major,Who's Lovin' You,Diana Ross Presents The Jackson 5,The Jackson 5
+0.511,0.509,F,-7.204,major,0.0251,0.566,1.02e-6,0.652,0.343,93.745,4D9wVFpbDRDK2s6vSgtEl0,237760,4,F major,I'll Be There,Third Album,The Jackson 5
+0.76,0.745,C,-8.509,major,0.0434,0.362,0,0.156,0.921,113.729,4P9H4333UbJRizKAlTm0cw,179307,4,C major,The Love You Save,ABC,The Jackson 5
+0.776,0.794,F#,-7.722,major,0.0723,0.133,2.35e-5,0.689,0.845,109.277,40yMSLSoi64msQHBhWMayx,161813,4,F# major,Dancing Machine,Dancing Machine,The Jackson 5
+0.526,0.669,D,-11.809,major,0.038,0.511,2.69e-4,0.373,0.902,165.175,59Rn3cbfrBjhHzXTG9BcUT,180187,4,D major,Never Can Say Goodbye,Maybe Tomorrow,The Jackson 5
+0.584,0.624,C,-7.078,major,0.0327,0.394,0,0.148,0.69,111.937,2kdIwFTWEXGZaTyQzfmPfi,163613,4,C major,Someday At Christmas,Christmas Album,The Jackson 5
+0.545,0.642,G#,-6.535,minor,0.0379,0.571,3.44e-6,0.0881,0.511,121.654,4mnS3xQNJ2u0aUI2nBMBAu,192813,4,G# minor,All I Do Is Think Of You,Moving Violation,The Jackson 5
+0.659,0.869,B,-5.858,major,0.046,0.00357,0,0.302,0.811,106.966,1TfAhjzRBWzYZ8IdUV3igl,201960,4,B major,Year 3000,Jonas Brothers,Jonas Brothers
+0.469,0.904,B,-3.525,major,0.131,0.00528,0,0.372,0.822,149.247,6ix0SApsNi4TAZE5zDTfMj,164973,4,B major,Hold On,Jonas Brothers,Jonas Brothers
+0.479,0.923,C,-3.524,major,0.0596,0.00475,0,0.124,0.537,149.953,0OHfSoJN9TqJDz8wETocUX,234147,4,C major,Fly With Me,"Lines, Vines and Trying Times",Jonas Brothers
+0.547,0.859,D,-3.382,major,0.0406,0.00545,2.83e-6,0.181,0.793,150.058,71GVkB7fIwkVoYjTh6VNav,173e3,4,D major,That's Just The Way We Roll,Jonas Brothers,Jonas Brothers
+0.633,0.867,A#,-4.467,major,0.0422,0.00131,0,0.129,0.772,120.997,51oXWg8RepFOwh51oYFZHZ,218560,4,A# major,Paranoid,"Lines, Vines and Trying Times",Jonas Brothers
+0.524,0.648,D#,-4.024,major,0.0293,0.00227,0,0.0674,0.789,77.971,1dgIkjRplDN2R6Kq2Lu20F,207507,4,D# major,Star Girl,Motion In The Ocean,McFly
+0.464,0.901,G,-3.421,major,0.0462,0.0264,0,0.233,0.636,97.978,3uHVcKeHpOCmppdrvYDdXj,177453,4,G major,Five Colours In Her Hair,Room On The 3rd Floor (Non EU version),McFly
+0.542,0.559,C#,-5.313,major,0.0258,0.197,0,0.0989,0.295,129.898,5TQV97qaI3zHz6ohwn8rST,186867,4,C# major,All About You,Wonderland,McFly
+0.68,0.666,A,-6.953,major,0.115,0.0694,0,0.157,0.789,151.995,1SLWLZPU1gP4UbJ7RniOFq,222920,4,A major,Love Is Easy,Memory Lane (The Best Of McFly) [Deluxe Edition],McFly
+0.642,0.856,C#,-2.273,major,0.0314,0.193,0,0.11,0.755,130.583,5kImolsmbaV4uqjcnYwqxe,198880,4,C# major,Obviously,Room On The 3rd Floor (Non EU version),McFly
+0.508,0.673,G,-4.581,major,0.0335,0.103,0,0.097,0.633,80.959,0M2esSxcdB6gTEeXYg7Ynq,245093,4,G major,Love Is On The Radio,Love Is On The Radio,McFly
+0.684,0.794,B,-4.862,major,0.0493,0.0178,0,0.139,0.632,114.016,5LuJYWrNPFvBfXMqr33Yl8,218615,4,B major,Shine A Light - Radio Edit,Above The Noise,McFly
+0.327,0.799,G,-5.399,major,0.039,0.0687,1.14e-5,0.278,0.446,199.752,3CZXTauhdIhw0uSOo9fxKt,207253,4,G major,The Heart Never Lies - Radio Edit,Memory Lane (The Best Of McFly) [Deluxe Edition],McFly
+0.465,0.843,F,-3.692,major,0.0497,0.0101,0,0.376,0.563,156.635,60Paqu97lzQWDqACLcgbpi,204e3,4,F major,Don't Stop Me Now,Memory Lane (The Best Of McFly) [Deluxe Edition],McFly
+0.476,0.962,E,-4.578,major,0.0688,6.76e-4,0,0.321,0.581,135.002,5wy45hYH4NjjANF5bMGMYJ,186227,4,E major,One For The Radio,ACTIVE,McFly
+0.758,0.858,D,-7.69,major,0.046,0.289,0,0.0879,0.914,133.181,2Rh8bcrw6tt8wrRM8NljN0,250560,4,D major,Claridad,15 Años De Historia,Menudo
+0.658,0.915,A,-6.564,major,0.0401,0.0816,9.67e-4,0.173,0.973,155.343,1zHmnDfyTpYvu7KkCeqntZ,210893,4,A major,Subete A Mi Moto,15 Años De Historia,Menudo
+0.496,0.741,F#,-5.538,major,0.0248,0.429,0,0.0831,0.349,95.997,3N2dmAfo6SIpRvKooI9U0A,184587,4,F# major,Quiero Ser,15 Años De Historia,Menudo
+0.769,0.867,F,-7.11,major,0.0352,0.428,4.8e-5,0.385,0.9,115.496,6ewf8NhGGpmQiBIsBu1Pu5,181987,4,F major,Fuego,15 Años De Historia,Menudo
+0.76,0.536,F#,-12.339,major,0.0433,0.0964,4.16e-4,0.171,0.977,137.256,7ofsWC9YSnnF1SgGs0YSWF,191800,4,F# major,Me Sigue Pareciendo Frío,Detrás de Tú Mirada,Menudo
+0.625,0.788,D,-6.767,major,0.136,0.667,1.06e-6,0.165,0.961,120.955,0HCAoSv0SZQx0jLIhiyFhV,176587,4,D major,Mi Banda Toca Rock,15 Años De Historia,Menudo
+0.749,0.793,C,-6.63,major,0.0814,0.233,0,0.118,0.799,131.409,0Fsf951g13ewVLsHvhJItC,186293,4,C major,Lluvia,15 Años De Historia,Menudo
+0.657,0.755,D,-6.597,major,0.028,0.322,1.1e-5,0.125,0.938,125.991,32lN1w1u1quDQGdYXERY0r,207960,4,D major,Dulces Besos,15 Años De Historia,Menudo
+0.664,0.719,D,-13.924,major,0.045,2.22e-4,1.89e-4,0.0763,0.833,120.487,5VItf8FeRQWVwuB1bX2H2j,342733,4,D major,Búscame,15 Años,Menudo
+0.764,0.551,F#,-11.98,major,0.0451,0.12,6.56e-4,0.28,0.746,90.775,16flEBCtUF67V5yO0GxYWn,256560,4,F# major,Hangin' Tough,Hangin' Tough,New Kids On The Block
+0.661,0.598,D#,-6.967,major,0.0359,0.187,0,0.0605,0.653,151.538,3uWDev1JIiPQgH6FRX5HyM,247227,4,D# major,Please Don't Go Girl - Single Version,Super Hits,New Kids On The Block
+0.666,0.793,A#,-6.395,major,0.066,0.0877,0,0.47,0.551,94.949,7MpP4LpNi4nMj8zSjmysEn,217280,4,A# major,Dirty Dancing,The Block (International Version),New Kids On The Block
+0.632,0.785,E,-7.336,major,0.101,0.00972,0,0.0676,0.786,83.94,0qrRTN0lWS2BABRJRM3mwE,202413,4,E major,Summertime,The Block (International Version),New Kids On The Block
+0.667,0.793,C,-7.106,major,0.0505,0.0863,0,0.115,0.317,134.025,3hf8PQ16yGsB8xMWIwyk6T,235267,4,C major,Single,The Block (International Version),New Kids On The Block
+0.669,0.434,D#,-12.854,major,0.0408,0.136,3.53e-5,0.21,0.533,152.158,2unWjXOcFWT2vlleStTEJy,263533,4,D# major,Please Don't Go Girl,Hangin' Tough,New Kids On The Block
+0.839,0.851,B,-6.713,major,0.138,0.0374,0,0.109,0.926,119.977,2N3JVnB85hqJl6SzTlZOxv,238427,4,B major,Pop,Celebrity,*NSYNC
+0.745,0.807,C,-5.191,minor,0.0884,0.0887,1.49e-5,0.0283,0.858,93.967,5TxdQaqp2Xn9IBTlfq26l7,253600,4,C minor,Girlfriend,Celebrity,*NSYNC
+0.375,0.527,A#,-8.422,major,0.0507,0.449,0,0.305,0.303,167.242,08zfRiERqpy7J0x8akk7zt,241493,4,A# major,(God Must Have Spent) A Little More Time On You - Remix,'N Sync UK Version,*NSYNC
+0.707,0.222,G,-11.716,major,0.0329,0.788,0,0.205,0.556,110.095,7kSLdGdXLey7pzLsWpdg1h,219640,4,G major,Little Things,Take Me Home: Yearbook Edition,One Direction
+0.672,0.52,G#,-7.747,major,0.0353,0.859,0,0.115,0.37,120.001,5O2P9iiztwhomNh8xkR9lJ,226600,4,G# major,Night Changes,FOUR (Deluxe),One Direction
+0.655,0.699,B,-4.421,major,0.0493,0.0352,0,0.064,0.802,86.704,0HMjXBAZmSYOTTi33WpMso,187427,4,B major,History,Made In The A.M. (Deluxe Edition),One Direction
+0.512,0.754,C,-6.031,major,0.055,0.135,0,0.0881,0.336,147.89,72C7aUQECOhNtnD0AC36ua,201693,4,C major,They Don't Know About Us,Take Me Home: Yearbook Edition,One Direction
+0.574,0.329,C#,-6.829,major,0.0274,0.22,0,0.0986,0.356,130.993,2afCBiru10AFckfOa49wIa,237933,4,C# major,You & I,Midnight Memories (Deluxe),One Direction
+0.647,0.823,D,-5.231,major,0.0762,0.0598,0,0.119,0.396,99.933,3NLnwwAQbbFKcEcV8hDItk,230333,4,D major,Perfect,Made In The A.M. (Deluxe Edition),One Direction
+0.729,0.771,E,-2.451,major,0.0725,0.00761,0,0.087,0.873,125.011,3SPDQfj2UfWq6A2NllZnzn,198053,4,E major,What Makes You Beautiful,Up All Night,One Direction
+0.544,0.809,G#,-5.098,major,0.0363,0.0038,0,0.323,0.448,145.017,4b4KcovePX8Ke2cLIQTLM0,197640,4,G# major,All Night,Night & Day (Night Edition),The Vamps
+0.818,0.567,G#,-6.775,major,0.098,0.0252,0,0.0606,0.886,101.014,3Tg4U3oXOQqMzD9vPIdQKn,205773,4,G# major,Hair Too Long,Hair Too Long,The Vamps
+0.607,0.724,B,-4.313,minor,0.0517,0.00392,0,0.0712,0.414,130.008,7yCm5uEZcQ6uzt9E5Py6IR,174600,4,B minor,Middle Of The Night,Night & Day (Night Edition),The Vamps
+0.522,0.697,C,-3.494,major,0.102,0.0658,0,0.1,0.447,100.001,5kflnIKOUU6aLXkVXmJ6iK,193200,4,C major,Personal,Personal,The Vamps
+0.71,0.863,E,-4.645,major,0.054,0.137,0,0.281,0.683,89.99,7I8EGPtqTwlC0UlCAkpYtP,179440,4,E major,I Found A Girl,Wake Up (Deluxe),The Vamps
+0.631,0.811,C#,-4.749,minor,0.046,0.00295,0,0.206,0.593,130.159,2kqAtjOtQPAR0OiYUJR43k,192711,4,C# minor,Can We Dance,Meet The Vamps,The Vamps
+0.562,0.857,G,-3.926,minor,0.0801,0.0383,0,0.11,0.539,126.883,6nHqns54LRqDNjeqKDF3v8,197936,4,G minor,Glad You Came,Battleground,The Wanted
+0.571,0.762,E,-4.484,major,0.0392,0.148,0,0.108,0.313,100.019,5OHwyr1icA3MYqRMiSKAMu,188338,4,E major,Could This Be Love,Word Of Mouth (Deluxe),The Wanted
+0.56,0.813,F,-3.38,major,0.0586,0.00663,0,0.0912,0.386,126.084,4i1yHB5Q9PhtWlWCplG3u5,202151,4,F major,Walks Like Rihanna,Word Of Mouth (Deluxe),The Wanted
+0.616,0.35,B,-6.975,major,0.0308,0.787,0,0.105,0.183,129.368,3sxnWc4zmcftJwlazQaFGH,180471,4,B major,Heartbreak Story,Word Of Mouth (Deluxe),The Wanted
+0.567,0.657,C#,-5.272,major,0.034,0.185,0,0.147,0.268,84.025,5brnPTeXJyDznyZztbx9KA,223120,4,C# major,Heart Vacancy,The Wanted (Special Edition),The Wanted
+0.582,0.703,D,-3.788,major,0.0337,0.039,0,0.27,0.245,149.062,12xQjCTsGm2JKWZklTOZnu,219324,4,D major,Everybody Knows,Word Of Mouth (Deluxe),The Wanted
+0.475,0.773,C,-4.252,major,0.0366,0.0069,0,0.36,0.406,77.502,28n62PUyuEnv5qpX3CLOzq,207898,3,C major,Show Me Love (America),Word Of Mouth (Deluxe),The Wanted
+0.609,0.721,F,-4.952,major,0.0267,0.181,1.65e-4,0.253,0.265,122.056,05sIXl70MwXilT6YdLiQ9Y,218825,4,F major,Warzone,Battleground,The Wanted
+0.557,0.719,D,-4.515,minor,0.0372,0.00267,0,0.306,0.344,77.501,3aW0ds4A4tSQDIp75FqWTo,242334,4,D minor,FAKE LOVE,Love Yourself 轉 'Tear',BTS
+0.57,0.422,C#,-7.561,minor,0.0422,0.372,0,0.127,0.169,113.007,48XfojJC87VKLlUotYV0Gm,242293,4,C# minor,The Truth Untold,Love Yourself 轉 'Tear',BTS
+0.769,0.817,C,-4.092,minor,0.0339,0.0268,9.95e-5,0.084,0.866,139.979,1trFxVLL8WKhYap543e74l,218615,4,C minor,Airplane pt.2,Love Yourself 轉 'Tear',BTS
+0.813,0.875,C#,-2.92,minor,0.0918,0.0237,0,0.288,0.756,99.004,4lRwa7PKcGIuJMwtPIYKdy,232966,4,C# minor,Anpanman,Love Yourself 轉 'Tear',BTS
+0.598,0.775,C#,-4.035,minor,0.0545,0.022,0,0.0677,0.687,129.819,5SE57ljOIUJ1ybL9U6CuBH,223123,4,C# minor,DNA,Love Yourself 承 'Her',BTS
+0.541,0.661,C#,-5.838,major,0.0889,0.103,0,0.0779,0.285,149.926,22ryCgQttpV7oCrn7llGRu,275696,4,C# major,Magic Shop,Love Yourself 轉 'Tear',BTS
+0.519,0.828,F,-5.523,major,0.365,0.214,0,0.0571,0.929,139.413,01dmH2IPkrLNWIMPNXlreE,211224,4,F major,Paradise,Love Yourself 轉 'Tear',BTS
+0.636,0.876,A,-4.652,major,0.0617,0.0487,0,0.0728,0.759,149.932,645YBsxhFPSOKxGep3uHLv,221529,4,A major,Love Maze,Love Yourself 轉 'Tear',BTS
+0.664,0.688,B,-6.466,minor,0.0543,0.153,9.14e-5,0.173,0.65,106.022,38td8VabuKlQt72Q2VnhbO,230063,4,B minor,134340,Love Yourself 轉 'Tear',BTS
+0.656,0.883,A,-4.294,minor,0.0737,0.0238,0,0.0481,0.46,129.947,4CvId64YZSB0RfRdfzPIQU,281521,4,A minor,So What,Love Yourself 轉 'Tear',BTS
+0.728,0.801,F#,-4.428,minor,0.0439,0.04,0,0.0415,0.656,123.953,46E1ic6n099e76t5J1TbHn,190821,4,F# minor,View,Odd - The 4th Album,SHINee
+0.701,0.961,A,-5.256,major,0.0443,0.00326,9.57e-6,0.497,0.487,125.012,6YCySHA5YOZSVxTXJZE6Nl,239533,4,A major,Lucifer,SHINee THE 3rd CONCERT ALBUM <SHINee WORLD Ⅲ in SEOUL>,SHINee
+0.602,0.926,G,-1.78,major,0.177,0.102,0,0.317,0.288,125.107,082T4CgUFyV0tjPdzaq6ml,246787,4,G major,Tell Me What To Do,1 and 1 - The 5th Album Repackage,SHINee
+0.694,0.879,F,-3.765,minor,0.0515,0.0635,0,0.0478,0.84,108.045,6UmRhJatcth1KF76r5ucvZ,203885,4,F minor,1 of 1,1 of 1 - The 5th Album,SHINee
+0.64,0.937,C#,-2.112,major,0.0839,0.0069,0,0.393,0.316,107.013,2sVtrcj32v3fR8mLjqWziv,239187,4,C# major,Sherlock (Clue + Note),Sherlock,SHINee
+0.729,0.869,A#,-3.24,minor,0.0994,0.107,0,0.0721,0.889,114.995,1ogT6eFnEuX5BDH8JoKjX8,214689,4,A# minor,Married To The Music,Married To The Music - The 4th Album Repackage,SHINee
+0.703,0.712,C#,-5.491,major,0.1,0.184,3.44e-6,0.663,0.598,99.99,2O7DJ26ffSpxD3giTttz6m,217147,4,C# major,누난 너무 예뻐 (Replay) - Live,SHINee World (The 1st Asia Tour Album),SHINee
+0.732,0.718,C,-5.442,major,0.0393,0.406,0,0.78,0.585,110.949,2loiab7rLHiw0hbWiIE2SC,241933,4,C major,Stand By Me - Live,SHINee World (The 1st Asia Tour Album),SHINee
+0.351,0.384,D,-7.545,major,0.0306,0.161,0,0.217,0.358,135.49,1naapoRLiIo2duWwDE08fL,284587,4,D major,From Now On,SHINee THE BEST FROM NOW ON,SHINee
+0.737,0.659,C#,-5.478,major,0.0768,0.201,2.37e-6,0.0879,0.565,99.968,460eZcZsxNbWcs1DQDC9P8,215267,4,C# major,Replay -君は僕のeverything-,THE FIRST,SHINee
